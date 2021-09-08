@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="45" viewBox="0 0 54 45">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.023" y1="0.203" x2="0.838" y2="0.819" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3cfcfc"/>
+      <stop offset="1" stop-color="#00b0f0"/>
+    </linearGradient>
+  </defs>
+  <path id="Quote_Icon" data-name="Quote Icon" d="M32,45V28.663Q32,1.9,54,0V8.1q-8.25,2.261-8.25,12.983v2.334H54V45ZM0,45V28.663Q0,1.9,22,0V8.1q-8.25,2.261-8.249,12.983v2.334H22V45Z" fill="url(#linear-gradient)"/>
+</svg>
